@@ -1,0 +1,14 @@
+# Temporary Microsoft Office / OpenOffice files
+~$*.docx
+~$*.pptx
+~$*.xlsx
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor & workspace folders
+.vscode/
+.idea/
