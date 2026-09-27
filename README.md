@@ -1,14 +1,12 @@
-# eng103-undergrad-autonomy-research
-# Examining the Impact of Academic Pressure on Undergraduate Students in Bangladesh in Relation to Institutional Autonomy
+# 🎓 🧠 📊 Examining the Impact of Academic Pressure on Undergraduate Students in Bangladesh in Relation to Institutional Autonomy
 
 > **Course:** ENG103: Advanced Writing Skills and Presentation  
 > **Institution:** BRAC Institute of Languages (BIL), BRAC University  
-> **Date of Submission:** May 23, 2025  
 > **Course Instructor:** Ms. Evita Amin (Senior Lecturer & Academic Coordinator)
 
 ---
 
-## 👥 Authors & Contributions
+## 👥 Members & Contributions
 
 | Member Name | Student ID | Core Section Contribution |
 | :--- | :--- | :--- |
@@ -42,17 +40,15 @@ Using a mixed-methods empirical survey ($N = 51$), the findings demonstrate a ce
 
 * `docs/Research_Paper.pdf`: The full academic paper including literature review, methodology, and citations.
 * `docs/Presentation_slides.pdf`: Complete slide deck prepared for the course oral defense.
-* `data/Form_Responses.csv`: De-identified survey dataset containing quantitative scores and open-ended student responses.
-* `data/codebook.md`: Survey schema and question definitions.
+* `data/Form_Responses.pdf`: De-identified survey dataset containing quantitative scores and open-ended student responses.
+* `Survey Questionnaire`: [Access the Google Form / Document here](YOUR_SURVEY_URL_HERE) — Contains the original survey schema, prompts, and scenario definitions.
 
 ---
 
-## 📌 Primary Policy Recommendations
+## 👤 Author & Acknowledgments
 
-1. **Student-Centered Calendar Pacing:** Eliminate multi-exam clusters on identical or consecutive calendar days and allocate sufficient inter-semester breaks.
-2. **Pedagogical vs. Bureaucratic Autonomy:** Re-channel university autonomy toward elective course diversity and active-learning methods rather than aggressive testing cadences.
-3. **Institutional Mental Health Support:** Integrate dedicated on-campus psychological resources and counseling infrastructure to mitigate academic burnout.
-4. **Inclusive Governance:** Establish formal feedback channels to include student representation in academic calendar revisions and workload policies.
+- **Developer:** Samiha Tasnim Orthi, Sharzil Nafis Hossain, Md. Isteak Jami, Jahanara Akter Meem, Md. Tahmin Baten
+- **Course:** ENG103 - Advanced Writing & Presentation Skills
 
 ---
 
